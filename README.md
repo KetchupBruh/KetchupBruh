@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **KetchupBruh/KetchupBruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
+👋 My name is Kittayod Wongwuttinun (Tae)
+
 🌱 I’m currently learning in Information Technology faculty at King Mongkut's University of Technology Thonburi.<br>⚡ Fun fact, I'm not a smart person. But I'm ready to learn it.
 
 
