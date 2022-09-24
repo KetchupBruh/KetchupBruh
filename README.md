@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 My name is Kittayod Wongwuttinun (Tae).
-🧁 My birthday is 28 August 2001.
-🔭 My hobby; Playing video games, watching the movies and listening the musics.
-🌱 I’m currently learning in Information Technology faculty at King Mongkut's University of Technology Thonburi.
+👋 My name is Kittayod Wongwuttinun (Tae). </br>
+🧁 My birthday is 28 August 2001. </br>
+🔭 My hobby; Playing video games, watching the movies and listening the musics. </br>
+🌱 I’m currently learning in Information Technology faculty at King Mongkut's University of Technology Thonburi. </br>
 
 
 
