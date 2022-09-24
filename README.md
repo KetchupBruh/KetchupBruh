@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 My name is Kittayod Wongwuttinun (Tae)
+👋 My name is Kittayod Wongwuttinun (Tae).
+🧁 My birthday is 28 August 2001.
+🔭 My hobby; Playing video games, watching the movies and listening the musics.
+🌱 I’m currently learning in Information Technology faculty at King Mongkut's University of Technology Thonburi.
 
-🌱 I’m currently learning in Information Technology faculty at King Mongkut's University of Technology Thonburi.<br>⚡ Fun fact, I'm not a smart person. But I'm ready to learn it.
 
 
 ## 🌐 Socials:
